@@ -1,4 +1,2 @@
 ### Leaders
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
+* [Mihail Stoynov](mailto://mihail.stoynov@owasp.org)
