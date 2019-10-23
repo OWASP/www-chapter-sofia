@@ -6,15 +6,18 @@ tags: Sofia Bulgaria sofia-meetings
 level: 4
 
 ---
-We're one of the youngest chapters. Since we're the first in Bulgaria, we expect to grow quickly.
+This is the page of the OWASP Sofia Chapter. An OWASP Chapter is like a user group. We do events, discuss topics.
 
-If you're interested in speaking or would like to share your conference room for an event, please contact us at https://www.meetup.com/OWASP-Sofia-Chapter/
+If you'd like to be a part of our community, check out the meetup page.
+
 
 [Youtube](https://www.youtube.com/channel/UC92abF1QN6OFPKNTYTdWZrQ)
 [Linkedin](https://www.linkedin.com/company/owasp-sofia/)
 
 
-## Meetings
+## Past Events
+
+For **future events**, check the [meetup](https://www.meetup.com/OWASP-Sofia-Chapter/) page.
 
 ### Atanas Pashov - Pros & Cons of Penetration Testing (June 27th, 2019)
 
