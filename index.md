@@ -8,7 +8,7 @@ level: 4
 ---
 This is the page of the OWASP Sofia Chapter. An OWASP Chapter is like a user group. We do events, discuss topics.
 
-If you'd like to be a part of our community, check out the meetup page.
+If you'd like to be a part of our community, want to do a talk or sponsor us, check out the [about](#about) page.
 
 
 [Youtube](https://www.youtube.com/channel/UC92abF1QN6OFPKNTYTdWZrQ)
