@@ -6,7 +6,7 @@ tags: Sofia Bulgaria sofia-meetings
 level: 4
 
 ---
-![BGLOGO](assets/images/bg.logo.png)
+<img align="right" style="padding: 10px;" width="220px" src="assets/images/logo.png" />
 
 This is the page of the OWASP Sofia Chapter. An OWASP Chapter is like a user group. We do events, discuss topics.
 

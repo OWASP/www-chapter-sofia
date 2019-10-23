@@ -1,5 +1,5 @@
 ---
-title: About1
+title: about
 layout:  null
 tab: true
 order: 1
