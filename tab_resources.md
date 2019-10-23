@@ -4,7 +4,7 @@ displaytext: Meetings
 layout:  null
 tab: true
 order: 1
-tags: resources
+tags: sofia
 ---
 
 ## Presentations

@@ -4,7 +4,7 @@ displaytext: About
 layout:  null
 tab: true
 order: 2
-tags: about
+tags: sofia
 ---
 
 We're one of the youngest chapters. Since we're the first in Bulgaria, we expect to grow quickly.
