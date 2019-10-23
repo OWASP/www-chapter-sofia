@@ -1,6 +1,6 @@
 ---
 title: resources
-displaytext: Meetings
+displaytext: Resources
 layout:  null
 tab: true
 order: 1
@@ -18,4 +18,3 @@ All the videos that we're allowed to share are [here](https://www.youtube.com/ch
 ## Linkedin
 
 We have a [Linkedin group](https://www.linkedin.com/company/owasp-sofia/).
-
