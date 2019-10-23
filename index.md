@@ -4,6 +4,8 @@ layout: col-sidebar
 title: OWASP Sofia Chapter
 tags: sofia bulgaria
 
+region: Europe
+
 ---
 <img align="right" style="padding: 10px;" width="220px" src="assets/images/logo.png" />
 
