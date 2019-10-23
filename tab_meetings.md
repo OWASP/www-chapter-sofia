@@ -1,8 +1,9 @@
 ---
-title: about
+title: meetings
+displaytext: Meetings
 layout:  null
 tab: true
-order: 2
+order: 3
 tags: sofia-about
 ---
 

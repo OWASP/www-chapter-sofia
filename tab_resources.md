@@ -1,5 +1,6 @@
 ---
-title: Resources
+title: resources
+displaytext: Meetings
 layout:  null
 tab: true
 order: 1

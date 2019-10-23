@@ -2,15 +2,14 @@
 
 layout: col-sidebar
 title: OWASP Sofia Chapter
-tags: Sofia Bulgaria sofia-meetings
-level: 4
+tags: sofia bulgaria sofia-meetings
 
 ---
 <img align="right" style="padding: 10px;" width="220px" src="assets/images/logo.png" />
 
 This is the page of the OWASP Sofia Chapter. An OWASP Chapter is like a user group. We do events, discuss topics.
 
-If you'd like to be a part of our community, want to do a talk or sponsor us, check out the [about](#about1) page.
+If you'd like to be a **part of our community**, want to **do a talk** or **sponsor** us, check out the [about](#about) page.
 
 All our resources are located [here](#resources).
 
@@ -34,7 +33,7 @@ Beer by [STY](https://sty.bz/)
 [Presentation](https://speakerdeck.com/owaspsofia/owasp-sofia-atanas-pashov-pros-n-cons-of-penetration-testing-june-27th-2019),
 No Video
 
-Pictures, attendance, comments: [Meetup](https://www.meetup.com/OWASP-Sofia-Chapter/events/261105250/)
+Pictures, attendance, comments: [Meetup event](https://www.meetup.com/OWASP-Sofia-Chapter/events/261105250/)
 
 
 ### Session: Angel Bochev - Penetration Testing: OSINT (May 9th, 2019)
@@ -51,4 +50,4 @@ Venue, beer and food by [Paysafe](https://paysafe.com).
 [Presentation](https://speakerdeck.com/owaspsofia/owasp-sofia-angel-bochev-penetration-testing-osint-may-9th-2019),
 [Video](https://www.youtube.com/watch?v=KIVSeSNGKSA)
 
-Pictures, attendance, comments: [Meetup](https://www.meetup.com/OWASP-Sofia-Chapter/events/261105250/)
+Pictures, attendance, comments: [Meetup event](https://www.meetup.com/OWASP-Sofia-Chapter/events/261105250/)
