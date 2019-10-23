@@ -6,13 +6,13 @@ tags: Sofia Bulgaria sofia-meetings
 level: 4
 
 ---
+![BGLOGO](assets/images/bg.logo.png)
+
 This is the page of the OWASP Sofia Chapter. An OWASP Chapter is like a user group. We do events, discuss topics.
 
-If you'd like to be a part of our community, want to do a talk or sponsor us, check out the [about](#about) page.
+If you'd like to be a part of our community, want to do a talk or sponsor us, check out the [about](#about1) page.
 
-
-[Youtube](https://www.youtube.com/channel/UC92abF1QN6OFPKNTYTdWZrQ)
-[Linkedin](https://www.linkedin.com/company/owasp-sofia/)
+All our resources are located [here](#resources).
 
 
 ## Past Events
