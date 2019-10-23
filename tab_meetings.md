@@ -4,7 +4,7 @@ displaytext: Meetings
 layout:  null
 tab: true
 order: 3
-tags: sofia-about
+tags: meetings
 ---
 
 We're one of the youngest chapters. Since we're the first in Bulgaria, we expect to grow quickly.
