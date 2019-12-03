@@ -53,3 +53,4 @@ Venue, beer and food by [Paysafe](https://paysafe.com).
 [Video](https://www.youtube.com/watch?v=KIVSeSNGKSA)
 
 Pictures, attendance, comments: [Meetup event](https://www.meetup.com/OWASP-Sofia-Chapter/events/261105250/)
+
