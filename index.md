@@ -5,6 +5,9 @@ title: OWASP Sofia Chapter
 tags: sofia bulgaria
 
 region: Europe
+meetup-group: OWASP-Sofia-Chapter
+country: Bulgaria
+postal-code: 
 
 ---
 <img align="right" style="padding: 10px;" width="220px" src="assets/images/logo.png" />
