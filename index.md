@@ -20,7 +20,29 @@ All our resources are located [here](#resources).
 
 ## Upcoming Events
 
-Generally for **future events** and attending check the [meetup](https://www.meetup.com/OWASP-Sofia-Chapter/) page.
+### Check our Upcoming Meetup Events:
+{% include chapter_events.html group=page.meetup-group %}
+
+
+## Past Events
+
+### XSS Attacks and Defenses
+
+![Banner](assets/images/2021.04.27.banner.and.text.png)
+
+**OWASP Sofia chapter** presents Dimitar Boyanov from Progress. In this session Dimitar will talk about XSS Attacks:
+
+Attackers have weapons but defenders have strong armor. XSS is one of the most popular and dangerous attacks for web applications. All XSS types will be explained and defenses in-depth will be presented.
+
+**Dimitar Boyanov** is a web developer with more than 15 years of experience. Leading developer and one of the founders of Sitefinity Security Team in Progress. Author of many defenses part of the leading CMS.
+
+**Level**: Mid/Advanced Web Programming
+
+**Meeting details**:
+Mihail is inviting you to a scheduled Zoom meeting.
+
+**Topic**: OWASP Sofia presents XSS Attacks and Defenses by Dimitar Boyanov
+Time: Apr 27, 07:00 PM Sofia
 
 ### Svetlin Nakov - Compromising Modern Online Banking Apps through Hijacking Android Devices
 
@@ -33,15 +55,6 @@ Generally for **future events** and attending check the [meetup](https://www.mee
 In this talk Dr. Svetlin Nakov will explain and demonstrate how easily a 10-years old child can gain full control over modern European online banking apps, through hijacking an Android mobile phone, using trivial remote administration tools and screen recording apps from the official Android app store. The speaker will demonstrate why online banking should not rely for the multi-factor authentication on a single connected device. Finally, the speaker will give recommendations for fixing the security in online banking systems.
 
 Dr. Svetlin Nakov (https://nakov.com) is a passionate software engineer, inspirational technical trainer and tech entrepreneur, with 20 years of experience in a broad range of programming languages, software technologies and platforms, applied cryptography and cybersecurity. He is an author of the "Practical Cryptography for Developers" book (https://cryptobook.nakov.com). Svetlin is co-founder of several highly successful tech startups and non-profit organizations. Currently, he is innovation and inspiration manager at SoftUni (https://softuni.org) - the largest tech education provider in South-Eastern Europe.
-
-\[BG\]
-**Демонстрация: компрометиране на онлайн банкиране чрез отвличане на Android телефон**
-
-В тази демонстрация на живо д-р Светлин Наков ще обясни и демонстрира колко лесно 10-годишно дете може да получи пълен контрол над съвременните европейски приложения за онлайн банкиране, чрез отвличане на мобилен телефон с Android, използвайки тривиални инструменти за отдалечено администриране и приложения за запис на екрана от Android app store. Лекторът ще демонстрира защо онлайн банкирането не трябва да разчита на многофакторното удостоверяване на единично свързано устройство. Накрая ще бъдат дадени препоръки за подобряване на сигурността в системите за онлайн банкиране.
-
-Д-р Светлин Наков (https://nakov.com) е разпален софтуерен инженер, вдъхновяващ преподавател и технологичен предприемач, с 20-годишен опит в широк спектър от програмни езици, софтуерни технологии и платформи, приложна криптография и киберсигурност. Той е автор на книгата "Практическа криптография за разработчици" (https://cryptobook.nakov.com). Светлин е съосновател на няколко изключително успешни технологични стартиращи компании и нестопански организации. В момента той е мениджър по иновации и вдъхновение в SoftUni (https://softuni.org) - най-големият доставчик на технологично образование в Югоизточна Европа.
-
-## Past Events
 
 ### Atanas Pashov - Pros & Cons of Penetration Testing (June 27th, 2019)
 
