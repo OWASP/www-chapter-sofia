@@ -10,9 +10,9 @@ country: Bulgaria
 postal-code: 
 
 ---
-<img align="right" style="padding: 10px;" width="220px" src="assets/images/logo.png" />
+<img align="right" style="padding: 10px;" width="140px" src="assets/images/logo.png" />
 
-This is the page of the OWASP Sofia Chapter. An OWASP Chapter is like a user group. We do events, discuss topics.
+This is the page of the OWASP Sofia chapter. An OWASP chapter is like a user group. We do events, discuss topics. And generally try to bring the security community together.
 
 If you'd like to be a **part of our community**, want to **do a talk** or **sponsor** us, check out the [about](#about) page.
 
@@ -41,7 +41,7 @@ Some of the vulnerabilities covered in the session:
 - Firebase related vulnerabilities
 - Unprotected android components
 
-![Banner](assets/images/bio/satish.jpg)
+<img align="right" style="padding: 10px;" src='assets/images/bio/satish.jpg' >
 
 **Satish** is an Information Security Consultant, researcher, and blogger with 9+ years of experience in various areas of information security.
 His areas of interest are Mobile and Cloud Security.
