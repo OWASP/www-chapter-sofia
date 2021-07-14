@@ -26,6 +26,29 @@ All our resources are located [here](#resources).
 
 ## Past Events
 
+### Learn Android application security testing using AndroGoat
+
+![Banner](assets/images/banners/2021.07.07.jpg)
+
+**OWASP Sofia presents** a session by the author of AndroGoat.
+
+AndroGoat is a purposely developed open-source vulnerable/insecure app using Kotlin. This app has a wide range of vulnerabilities related to certificate pinning, custom URL schemes, Android Network Security Configuration, WebViews, root detection, and over 20 other vulnerabilities. Security Testers/Professionals/Enthusiasts, Developers...etc. can use this application to understand and defend the vulnerabilities in the Android platform
+
+Some of the vulnerabilities covered in the session:
+
+- Network security config.xml related vulnerabilities
+- Certificate pinning
+- Firebase related vulnerabilities
+- Unprotected android components
+
+**Satish** is an Information Security Consultant, researcher, and blogger with 9+ years of experience in various areas of information security.
+His areas of interest are Mobile and Cloud Security.
+He developed a vulnerable android application using Kotlin – AndroGoat. This is the first ever vulnerable app developed using Kotlin. This will help Security Testers/Professionals/Enthusiasts, Developers...etc. to understand and defend the vulnerabilities in the Android platform.
+He presented AndroGoat at Blackhat Europe 2020 event.
+He will be talking about AndroGoat in this session.
+
+For details about the speaker - https://twitter.com/satish_patnayak
+
 ### XSS Attacks and Defenses
 
 ![Banner](assets/images/banners/2021.04.27.png)
