@@ -28,7 +28,7 @@ All our resources are located [here](#resources).
 
 ### XSS Attacks and Defenses
 
-![Banner](assets/images/2021.04.27.banner.and.text.png)
+![Banner](assets/images/banners/2021.04.27.png)
 
 **OWASP Sofia chapter** presents Dimitar Boyanov from Progress. In this session Dimitar will talk about XSS Attacks:
 
@@ -46,7 +46,7 @@ Time: Apr 27, 07:00 PM Sofia
 
 ### Svetlin Nakov - Compromising Modern Online Banking Apps through Hijacking Android Devices
 
-![Banner](assets/images/2021.03.27.banner.and.text.jpeg)
+![Banner](assets/images/banners/2021.03.27.jpeg)
 
 (The talk will be in Bulgarian)
 
@@ -58,7 +58,7 @@ Dr. Svetlin Nakov (https://nakov.com) is a passionate software engineer, inspira
 
 ### Atanas Pashov - Pros & Cons of Penetration Testing (June 27th, 2019)
 
-![Banner](assets/images/2019.06.27.procons.png)
+![Banner](assets/images/banners/2019.06.27.png)
 
 In this session you will learn what is penetration testing. What are the objectives and benefits of it and at what cost. You will also learn why some vulnerabilities may not be ever discovered by automated tools. You will see only real life examples from real penetration tests, no theory, no set-ups, no fictious vulnerabilities, nothing discovered by somebody else that you can find somewhere else.
 
@@ -76,7 +76,7 @@ Pictures, attendance, comments: [Meetup event](https://www.meetup.com/OWASP-Sofi
 
 ### Session: Angel Bochev - Penetration Testing: OSINT (May 9th, 2019)
 
-![Banner](assets/images/2019.05.09.osint.png)
+![Banner](assets/images/banners2019.05.09.png)
 
 A real-world pentester talks about OSINT - Open Source Intelligence - the exploration of various techniques and tools for one of the most important parts of every penetration test - the information gathering.
 
