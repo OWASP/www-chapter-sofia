@@ -41,10 +41,15 @@ Some of the vulnerabilities covered in the session:
 - Firebase related vulnerabilities
 - Unprotected android components
 
+![Banner](assets/images/bio/satish.jpg)
+
 **Satish** is an Information Security Consultant, researcher, and blogger with 9+ years of experience in various areas of information security.
 His areas of interest are Mobile and Cloud Security.
+
 He developed a vulnerable android application using Kotlin – AndroGoat. This is the first ever vulnerable app developed using Kotlin. This will help Security Testers/Professionals/Enthusiasts, Developers...etc. to understand and defend the vulnerabilities in the Android platform.
+
 He presented AndroGoat at Blackhat Europe 2020 event.
+
 He will be talking about AndroGoat in this session.
 
 For details about the speaker - https://twitter.com/satish_patnayak
