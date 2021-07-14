@@ -18,15 +18,15 @@ If you'd like to be a **part of our community**, want to **do a talk** or **spon
 
 All our resources are located [here](#resources).
 
-## Upcoming Events
+## <center>Upcoming Events
 
-### Check our Upcoming Meetup Events:
+### <center>Check our Upcoming Meetup Events:
 {% include chapter_events.html group=page.meetup-group %}
 
 
-## Past Events
+## <center>Past Events
 
-### Learn Android application security testing using AndroGoat
+### <center>Learn Android application security testing using AndroGoat
 
 ![Banner](assets/images/banners/2021.07.07.jpg)
 
@@ -54,7 +54,7 @@ He will be talking about AndroGoat in this session.
 
 For details about the speaker - https://twitter.com/satish_patnayak
 
-### XSS Attacks and Defenses
+### <center>XSS Attacks and Defenses
 
 ![Banner](assets/images/banners/2021.04.27.png)
 
@@ -72,7 +72,7 @@ Mihail is inviting you to a scheduled Zoom meeting.
 **Topic**: OWASP Sofia presents XSS Attacks and Defenses by Dimitar Boyanov
 Time: Apr 27, 07:00 PM Sofia
 
-### Svetlin Nakov - Compromising Modern Online Banking Apps through Hijacking Android Devices
+### <center>Svetlin Nakov - Compromising Modern Online Banking Apps through Hijacking Android Devices
 
 ![Banner](assets/images/banners/2021.03.27.jpeg)
 
@@ -84,7 +84,7 @@ In this talk Dr. Svetlin Nakov will explain and demonstrate how easily a 10-year
 
 Dr. Svetlin Nakov (https://nakov.com) is a passionate software engineer, inspirational technical trainer and tech entrepreneur, with 20 years of experience in a broad range of programming languages, software technologies and platforms, applied cryptography and cybersecurity. He is an author of the "Practical Cryptography for Developers" book (https://cryptobook.nakov.com). Svetlin is co-founder of several highly successful tech startups and non-profit organizations. Currently, he is innovation and inspiration manager at SoftUni (https://softuni.org) - the largest tech education provider in South-Eastern Europe.
 
-### Atanas Pashov - Pros & Cons of Penetration Testing (June 27th, 2019)
+### <center>Atanas Pashov - Pros & Cons of Penetration Testing (June 27th, 2019)
 
 ![Banner](assets/images/banners/2019.06.27.png)
 
@@ -102,7 +102,7 @@ No Video
 Pictures, attendance, comments: [Meetup event](https://www.meetup.com/OWASP-Sofia-Chapter/events/261105250/)
 
 
-### Session: Angel Bochev - Penetration Testing: OSINT (May 9th, 2019)
+### <center>Session: Angel Bochev - Penetration Testing: OSINT (May 9th, 2019)
 
 ![Banner](assets/images/banners2019.05.09.png)
 
