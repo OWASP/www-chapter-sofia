@@ -18,6 +18,12 @@ If you'd like to be a **part of our community**, want to **do a talk** or **spon
 
 All our resources are located [here](#resources).
 
+## <center> OWASP 20th Anniversary Event
+
+OWASP will be celebrating its [20th Anniversary](https://20thanniversary.owasp.org/) on September 24, 2021!  We will be hosting a live virtual 24-hour global event. [Registration](https://www.eventbrite.com/e/owasps-20th-anniversary-event-celebration-tickets-152915084133) is free for all to attend!
+
+![20thanniversary](assets/images/20thanniversary.png)
+
 ## <center>Upcoming Events
 
 ### <center>Check our Upcoming Meetup Events:
