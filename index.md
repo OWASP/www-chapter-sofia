@@ -32,9 +32,34 @@ OWASP will be celebrating its [20th Anniversary](https://20thanniversary.owasp.o
 
 ## <center>Past Events
 
+### <center>Understanding AWS cloud attacks using CloudGoat
+
+<center><img src="assets/images/banners/2021.07.20.jpg" /></center>
+
+**OWASP Sofia Chapter** is proud to present a session with Kavisha Sheth, who will talk about **AWS attacks** using CloudGoat.
+
+Enterprises are increasingly running their IT and application infrastructure natively in the cloud. With more workloads running in the cloud, security becomes an important and unavoidable part of your day-to-day operations. All cloud providers seek to implement the shared responsibility of security with their customers, which means that although the cloud provider is responsible for the hardware and underlying infrastructure security, the customer becomes responsible for all accounts, workloads, systems, and configuration-based security.
+
+Regardless of whether you are a cloud security enthusiast or a pentester, it is important that you are able to assess the security of the cloud platform and pentest these cloud-native deployments to help secure organizations. This session will help you get started and understand what are the different attacks that are possible on a target AWS environment. You will learn how to discover vulnerabilities and what attacks are possible on AWS that leverage AWS IAM, Lambda and S3, etc.
+
+We will be using **CloudGoat** to demonstrate what these attacks look like. CloudGoat is an open-source Rhino Security Labs' "Vulnerable by Design'' AWS deployment tool. It allows you to hone your cloud cybersecurity skills by creating and completing several "capture-the-flag" style scenarios. We will be covering some of these scenarios to demonstrate AWS attacks. We will also include case studies from our assessments to highlight the real-world applicability of these attacks.
+
+<img align="right" style="padding: 10px;" src='assets/images/bio/kavisha.sheth.jpg' >
+
+Speaker: **Kavisha Sheth**
+
+Kavisha is a Security Analyst at Appsecco. She is a cloud security and machine learning enthusiast who dabbles in the application and API security and is passionate about helping customers in securing their IT assets. A member of a number of security communities including null community, InfoSecGirls, and WiCys India group. She believes in giving back to the community and frequently finds audiences to talk about Attacking GraphQL, different techniques to bypass authentication, and Attacking AWS.
+
+When not breaking apps for Appsecco, Kavisha spends time findings vulnerabilities with bug bounty programs and has been recognized by the Government of India for helping them in securing their websites. She has also been listed as one of the top security researchers of the nation, in a recent newsletter of NCIIPC RVDP.
+
+Kavisha has also earned a letter of appreciation from the Government of the United Kingdom for helping them in securing their website, and other organizations.
+
+[Presentation TBD](),
+[Video](https://youtu.be/yz8e60xkRj4)
+
 ### <center>Learn Android application security testing using AndroGoat
 
-![Banner](assets/images/banners/2021.07.07.jpg)
+<center><img src="assets/images/banners/2021.07.07.jpg" /></center>
 
 **OWASP Sofia presents** a session by the author of AndroGoat.
 
@@ -47,7 +72,7 @@ Some of the vulnerabilities covered in the session:
 - Firebase related vulnerabilities
 - Unprotected android components
 
-<img align="right" style="padding: 10px;" src='assets/images/bio/satish.jpg' >
+<img align="right" style="padding: 10px;" src='assets/images/bio/satish.patnayak.jpg' >
 
 **Satish** is an Information Security Consultant, researcher, and blogger with 9+ years of experience in various areas of information security.
 His areas of interest are Mobile and Cloud Security.
@@ -60,9 +85,13 @@ He will be talking about AndroGoat in this session.
 
 For details about the speaker - https://twitter.com/satish_patnayak
 
+[Presentation TBD](),
+[Video](https://youtu.be/AEufQivw0sc)
+
+
 ### <center>XSS Attacks and Defenses
 
-![Banner](assets/images/banners/2021.04.27.png)
+<center><img src="assets/images/banners/2021.04.27.jpg" /></center>
 
 **OWASP Sofia chapter** presents Dimitar Boyanov from Progress. In this session Dimitar will talk about XSS Attacks:
 
@@ -92,7 +121,7 @@ Dr. Svetlin Nakov (https://nakov.com) is a passionate software engineer, inspira
 
 ### <center>Atanas Pashov - Pros & Cons of Penetration Testing (June 27th, 2019)
 
-![Banner](assets/images/banners/2019.06.27.png)
+<center><img src="assets/images/banners/2019.06.27.jpg" /></center>
 
 In this session you will learn what is penetration testing. What are the objectives and benefits of it and at what cost. You will also learn why some vulnerabilities may not be ever discovered by automated tools. You will see only real life examples from real penetration tests, no theory, no set-ups, no fictious vulnerabilities, nothing discovered by somebody else that you can find somewhere else.
 
@@ -110,7 +139,7 @@ Pictures, attendance, comments: [Meetup event](https://www.meetup.com/OWASP-Sofi
 
 ### <center>Session: Angel Bochev - Penetration Testing: OSINT (May 9th, 2019)
 
-![Banner](assets/images/banners2019.05.09.png)
+<center><img src="assets/images/banners/2019.05.09.png" /></center>
 
 A real-world pentester talks about OSINT - Open Source Intelligence - the exploration of various techniques and tools for one of the most important parts of every penetration test - the information gathering.
 
