@@ -91,7 +91,7 @@ For details about the speaker - https://twitter.com/satish_patnayak
 
 ### <center>XSS Attacks and Defenses
 
-<center><img src="assets/images/banners/2021.04.27.jpg" /></center>
+<center><img src="assets/images/banners/2021.04.27.png" /></center>
 
 **OWASP Sofia chapter** presents Dimitar Boyanov from Progress. In this session Dimitar will talk about XSS Attacks:
 
@@ -121,7 +121,7 @@ Dr. Svetlin Nakov (https://nakov.com) is a passionate software engineer, inspira
 
 ### <center>Atanas Pashov - Pros & Cons of Penetration Testing (June 27th, 2019)
 
-<center><img src="assets/images/banners/2019.06.27.jpg" /></center>
+<center><img src="assets/images/banners/2019.06.27.png" /></center>
 
 In this session you will learn what is penetration testing. What are the objectives and benefits of it and at what cost. You will also learn why some vulnerabilities may not be ever discovered by automated tools. You will see only real life examples from real penetration tests, no theory, no set-ups, no fictious vulnerabilities, nothing discovered by somebody else that you can find somewhere else.
 
