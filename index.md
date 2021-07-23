@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Sofia Chapter
+title: OWASP Sofia 
 tags: sofia bulgaria
 
 region: Europe
