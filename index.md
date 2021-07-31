@@ -32,6 +32,23 @@ OWASP will be celebrating its [20th Anniversary](https://20thanniversary.owasp.o
 
 ## <center>Past Events
 
+### <center>AppSec Fast and Slow: Your DevSecOps CI/CD Pipeline Isn’t an SSA Program
+
+OWASP Sofia is proud to invite you to join us and Dan Cornell, at the "AppSec Fast and Slow: Your DevSecOps CI/CD Pipeline Isn’t an SSA Program" session.
+
+With all the focus on DevSecOps and integrating security into Continuous Integration/Continuous Delivery (CI/CD) pipelines, some teams may be lured into thinking that the entirety of a Software Security Assurance (SSA) program can be baked into these pipelines. While integrating security into CI/CD offers many benefits, it is critical to understand that a full SSA program encompasses a variety of activities – many of which are incompatible with run-time restrictions and other constraints imposed by these pipelines. This webinar looks at the breadth of activities involved in a mature SSA program and steps through the aspects of a program that can be realistically included in a pipeline, as well as those that cannot. It also reviews how these activities and related tooling have evolved over time as the application security discipline has matured and as development teams started to focus on cloud-native development techniques and technologies.
+
+<img align="right" style="padding: 10px;" src='assets/images/bio/dan.cornell.png' >
+
+Speaker: Dan Cornell
+
+A globally recognized software security expert, Dan Cornell has over 20 years of experience architecting, developing, and securing software systems. As Vice President of Product Strategy at Coalfire, Dan works with customers and industry partners to help drive the direction of their product portfolio. Prior to its acquisition by Coalfire, Dan was a founder of and the Chief Technology Officer at Denim Group, where he helped Fortune 500 companies and government organizations integrate security throughout the development process.
+
+Cornell is an active member of the development community and a sought-after speaker on topics of application and software security, speaking at international conferences including RSA Security Conference, OWASP AppSec USA and EU, TEDx, and Black Hat Arsenal. He holds three patents in the area of software security.
+[Presentation](https://speakerdeck.com/owaspsofia/owasp-sofia-dan-cornell-appsec-fast-and-slow-your-devsecops-ci-cd-pipeline-isnt-an-ssa-program-july-27th-2021),
+[Video](https://youtu.be/Gx1_1Df_GAk)
+
+
 ### <center>Understanding AWS cloud attacks using CloudGoat
 
 <center><img src="assets/images/banners/2021.07.20.jpg" /></center>
@@ -72,7 +89,7 @@ Some of the vulnerabilities covered in the session:
 - Firebase related vulnerabilities
 - Unprotected android components
 
-<img align="right" style="padding: 10px;" src='assets/images/bio/satish.patnayak.jpg' >
+<img align="right" style="padding: 10px;" src='assets/images/bio/satish.patnayak.jpg'>
 
 **Satish** is an Information Security Consultant, researcher, and blogger with 9+ years of experience in various areas of information security.
 His areas of interest are Mobile and Cloud Security.
