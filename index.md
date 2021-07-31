@@ -34,6 +34,8 @@ OWASP will be celebrating its [20th Anniversary](https://20thanniversary.owasp.o
 
 ### <center>AppSec Fast and Slow: Your DevSecOps CI/CD Pipeline Isn’t an SSA Program
 
+<center><img src="assets/images/banners/2021.07.27.jpg" /></center>
+
 OWASP Sofia is proud to invite you to join us and Dan Cornell, at the "AppSec Fast and Slow: Your DevSecOps CI/CD Pipeline Isn’t an SSA Program" session.
 
 With all the focus on DevSecOps and integrating security into Continuous Integration/Continuous Delivery (CI/CD) pipelines, some teams may be lured into thinking that the entirety of a Software Security Assurance (SSA) program can be baked into these pipelines. While integrating security into CI/CD offers many benefits, it is critical to understand that a full SSA program encompasses a variety of activities – many of which are incompatible with run-time restrictions and other constraints imposed by these pipelines. This webinar looks at the breadth of activities involved in a mature SSA program and steps through the aspects of a program that can be realistically included in a pipeline, as well as those that cannot. It also reviews how these activities and related tooling have evolved over time as the application security discipline has matured and as development teams started to focus on cloud-native development techniques and technologies.
