@@ -18,7 +18,7 @@ If you'd like to be a **part of our community**, want to **do a talk** or **spon
 
 All our resources are located [here](#resources).
 
-## <center> OWASP 20th Anniversary Event
+## <center>OWASP 20th Anniversary Event
 
 OWASP will be celebrating its [20th Anniversary](https://20thanniversary.owasp.org/) on September 24, 2021!  We will be hosting a live virtual 24-hour global event. [Registration](https://www.eventbrite.com/e/owasps-20th-anniversary-event-celebration-tickets-152915084133) is free for all to attend!
 
@@ -51,7 +51,7 @@ Cornell is an active member of the development community and a sought-after spea
 [Video](https://youtu.be/Gx1_1Df_GAk)
 
 
-### <center>Understanding AWS cloud attacks using CloudGoat
+## <center>Understanding AWS cloud attacks using CloudGoat
 
 <center><img src="assets/images/banners/2021.07.20.jpg" /></center>
 
@@ -76,7 +76,7 @@ Kavisha has also earned a letter of appreciation from the Government of the Unit
 [Presentation TBD](),
 [Video](https://youtu.be/yz8e60xkRj4)
 
-### <center>Learn Android application security testing using AndroGoat
+## <center>Learn Android application security testing using AndroGoat
 
 <center><img src="assets/images/banners/2021.07.07.jpg" /></center>
 
@@ -108,7 +108,7 @@ For details about the speaker - https://twitter.com/satish_patnayak
 [Video](https://youtu.be/AEufQivw0sc)
 
 
-### <center>XSS Attacks and Defenses
+## <center>XSS Attacks and Defenses
 
 <center><img src="assets/images/banners/2021.04.27.png" /></center>
 
@@ -126,7 +126,7 @@ Mihail is inviting you to a scheduled Zoom meeting.
 **Topic**: OWASP Sofia presents XSS Attacks and Defenses by Dimitar Boyanov
 Time: Apr 27, 07:00 PM Sofia
 
-### <center>Svetlin Nakov - Compromising Modern Online Banking Apps through Hijacking Android Devices
+## <center>Compromising Modern Online Banking Apps through Hijacking Android Devices
 
 ![Banner](assets/images/banners/2021.03.27.jpeg)
 
@@ -138,13 +138,13 @@ In this talk Dr. Svetlin Nakov will explain and demonstrate how easily a 10-year
 
 Dr. Svetlin Nakov (https://nakov.com) is a passionate software engineer, inspirational technical trainer and tech entrepreneur, with 20 years of experience in a broad range of programming languages, software technologies and platforms, applied cryptography and cybersecurity. He is an author of the "Practical Cryptography for Developers" book (https://cryptobook.nakov.com). Svetlin is co-founder of several highly successful tech startups and non-profit organizations. Currently, he is innovation and inspiration manager at SoftUni (https://softuni.org) - the largest tech education provider in South-Eastern Europe.add
 
-### <center>Atanas Pashov - Pros & Cons of Penetration Testing (June 27th, 2019)
+## <center>Pros & Cons of Penetration Testing (June 27th, 2019)
 
 <center><img src="assets/images/banners/2019.06.27.png" /></center>
 
 In this session you will learn what is penetration testing. What are the objectives and benefits of it and at what cost. You will also learn why some vulnerabilities may not be ever discovered by automated tools. You will see only real life examples from real penetration tests, no theory, no set-ups, no fictious vulnerabilities, nothing discovered by somebody else that you can find somewhere else.
 
-Atanas is a cloud security penetration tester at SAP LAB Bulgaria. He has more than 10 years experience in information security working in various position as an infosec manager, security officer and network and firewall administrator for huge enterprise companies in different industries like banking, service providers, pharmaceuticals and software development. He is keen on pentesting especially in infrastructure and web application perspective.
+Atanas Pashov is a cloud security penetration tester at SAP LAB Bulgaria. He has more than 10 years experience in information security working in various position as an infosec manager, security officer and network and firewall administrator for huge enterprise companies in different industries like banking, service providers, pharmaceuticals and software development. He is keen on pentesting especially in infrastructure and web application perspective.
 
 Venue, food by [ESI CEE](https://esicenter.bg/)
 
@@ -156,7 +156,7 @@ No Video
 Pictures, attendance, comments: [Meetup event](https://www.meetup.com/OWASP-Sofia-Chapter/events/261105250/)
 
 
-### <center>Session: Angel Bochev - Penetration Testing: OSINT (May 9th, 2019)
+## <center>Penetration Testing: OSINT (May 9th, 2019)
 
 <center><img src="assets/images/banners/2019.05.09.png" /></center>
 
