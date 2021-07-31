@@ -126,6 +126,9 @@ Mihail is inviting you to a scheduled Zoom meeting.
 **Topic**: OWASP Sofia presents XSS Attacks and Defenses by Dimitar Boyanov
 Time: Apr 27, 07:00 PM Sofia
 
+[Presentation](https://speakerdeck.com/owaspsofia/owasp-sofia-dimitar-boyanov-xss-attacks-and-defenses-27th-of-april-2021),
+[Video](https://youtu.be/z6y1KBxgFLM)
+
 ## <center>Compromising Modern Online Banking Apps through Hijacking Android Devices
 
 ![Banner](assets/images/banners/2021.03.27.jpeg)
