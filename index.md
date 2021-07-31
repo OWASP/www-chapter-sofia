@@ -32,7 +32,7 @@ OWASP will be celebrating its [20th Anniversary](https://20thanniversary.owasp.o
 
 # <center>Past Events
 
-### <center>AppSec Fast and Slow: Your DevSecOps CI/CD Pipeline Isn’t an SSA Program
+## <center>AppSec Fast and Slow: Your DevSecOps CI/CD Pipeline Isn’t an SSA Program
 
 <center><img src="assets/images/banners/2021.07.27.jpg" /></center>
 
