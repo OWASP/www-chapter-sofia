@@ -138,6 +138,10 @@ In this talk Dr. Svetlin Nakov will explain and demonstrate how easily a 10-year
 
 Dr. Svetlin Nakov (https://nakov.com) is a passionate software engineer, inspirational technical trainer and tech entrepreneur, with 20 years of experience in a broad range of programming languages, software technologies and platforms, applied cryptography and cybersecurity. He is an author of the "Practical Cryptography for Developers" book (https://cryptobook.nakov.com). Svetlin is co-founder of several highly successful tech startups and non-profit organizations. Currently, he is innovation and inspiration manager at SoftUni (https://softuni.org) - the largest tech education provider in South-Eastern Europe.
 
+[Presentation](https://speakerdeck.com/owaspsofia/owasp-sofia-svetlin-nakov-compromising-modern-online-banking-apps-through-hijacking-android-device-27th-of-march-2021)
+
+
+
 ## <center>Pros & Cons of Penetration Testing (June 27th, 2019)
 
 <center><img src="assets/images/banners/2019.06.27.png" /></center>
