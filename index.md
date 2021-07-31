@@ -24,13 +24,13 @@ OWASP will be celebrating its [20th Anniversary](https://20thanniversary.owasp.o
 
 ![20thanniversary](assets/images/20thanniversary.png)
 
-## <center>Upcoming Events
+# <center>Upcoming Events
 
 ### <center>Check our Upcoming Meetup Events:
 {% include chapter_events.html group=page.meetup-group %}
 
 
-## <center>Past Events
+# <center>Past Events
 
 ### <center>AppSec Fast and Slow: Your DevSecOps CI/CD Pipeline Isn’t an SSA Program
 
