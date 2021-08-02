@@ -73,7 +73,7 @@ When not breaking apps for Appsecco, Kavisha spends time findings vulnerabilitie
 
 Kavisha has also earned a letter of appreciation from the Government of the United Kingdom for helping them in securing their website, and other organizations.
 
-[Presentation TBD](),
+[Presentation](https://speakerdeck.com/kavisha/understanding-aws-cloud-attacks),
 [Video](https://youtu.be/yz8e60xkRj4)
 
 ## <center>Learn Android application security testing using AndroGoat
