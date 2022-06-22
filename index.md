@@ -29,6 +29,19 @@ OWASP will be celebrating its [20th Anniversary](https://20thanniversary.owasp.o
 ### <center>Check our Upcoming Meetup Events:
 {% include chapter_events.html group=page.meetup-group %}
 
+## <center>Why hackers love Javascript?
+
+Finally, a non-online event. Join us live @CampusX where Martin will be demonstrating how uncommon quirks in the JavaScript language can prove useful to hackers. He will showcase how and why prototype pollution works, will construct valid JavaScript using only the atomic parts of the language, and more!
+
+<img align="right" style="padding: 10px;" src='assets/images/bio/martin.stoynov.png' >
+
+Speaker: Martin Stoynov
+
+Martin Stoynov is an Application Security Engineer and former Web JS Developer, with an interest in penetration testing and specifically in Cross-SIte Scripting (XSS) Attacks. He currently works for DXC and participates in responsible disclosure with Bulgarian Cybersecurity Foundation.
+
+Where: [CampusX](https://www.campusx.company/contact)
+
+When: 19:00, 28.06.2022
 
 # <center>Past Events
 
