@@ -1,4 +1,4 @@
-### Downloads or Social Links
+### Where to find us
+
 * [Meetup](https://www.meetup.com/OWASP-Sofia-Chapter/)
-* [Youtube](https://www.youtube.com/channel/UC92abF1QN6OFPKNTYTdWZrQ)
-* [Linkedin](https://www.linkedin.com/company/owasp-sofia/)
+* [Discord](https://discord.com/channels/849266967856414731/981867323298312223)
