@@ -11,7 +11,7 @@ We're one of the youngest chapters. Since we're the first in Bulgaria, we expect
 
 ## 💬 Want to chat?
 
-We have a pretty active [Discord](https://discord.com/channels/849266967856414731/981867323298312223) server with a lot of dedicated members who share information and help each other. 
+We have a pretty active [Discord](https://discord.com/channels/849266967856414731/981867323298312223) server with a lot of dedicated members who share information and help each other.
 
 You can find us there. Come, let's chat.
 
@@ -31,7 +31,8 @@ Please contact us using the links to the right ➡️
 
 ## 🎤 Want to do a talk?
 
-You have a cool topic and you want to share your experience with our commnity? 
+You have a cool topic and you want to share your experience with our commnity?
 
-Again,  contact us using the links to the right ➡️
+Again, contact us using the links to the right ➡️
 
+Or you can directly submit a session [here](https://sessionize.com/owasp-sofia/).
