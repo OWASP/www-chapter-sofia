@@ -7,6 +7,15 @@ order: 2
 tags: sofia
 ---
 
+### 2025
+
+* `31.01.2025` \| "**OS Command Injection via CRLF Injection in SNMP Services**" \| *[Peter Djalaliev](https://www.linkedin.com/in/pdjalaliev/)*
+  * [video](https://www.youtube.com/watch?v=KeyTtB0FVJw) \| [slides](./assets/presentations/202501%20-%20OS%20Command%20Injection%20via%20CRLF%20Injection%20in%20SNMP%20Services%20by%20Peter%20Djalaliev.pdf)
+* `31.01.2025` \| "**Active Directory Exploitation**" \| *[Lyuben Petrov](https://www.linkedin.com/in/lyuben-petrov-b287bb236/)*
+  * [video](https://www.youtube.com/watch?v=KeyTtB0FVJw) \| [slides](./assets/presentations/202501%20-%20Active%20Directory%20Exploitation%20by%20Lyuben%20Petrov.pdf)
+* `31.01.2025` \| "**Authentication Gone Bad - Penetration Testing Techniques for Chaining Vulnerabilities**" \| *[Milcho Hekimov](https://www.linkedin.com/in/milcho-hekimov/)*
+  * [video](https://www.youtube.com/watch?v=KeyTtB0FVJw) \| [slides](./assets/presentations/202501%20-%20Authentication%20Gone%20Bad%20-%20Penetration%20Testing%20Techniques%20for%20Chaining%20Vulnerabilities%20by%20Milcho%20Hekimov.pdf)
+
 ### 2024
 
 * `13.12.2024` \| "**OWASP Top 10 attacks & defenses**" \| *[Nikolay Dimitrov](https://www.linkedin.com/in/nikolay-dimitrov-a26781b9/)*
