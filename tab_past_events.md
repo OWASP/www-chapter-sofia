@@ -9,6 +9,13 @@ tags: sofia
 
 ### 2025
 
+* `21.03.2025` \| "**Coordinating Defense: My take on effective security testing strategies**" \| *[Dimo Stankov](https://www.linkedin.com/in/dimo-stankov/)*
+  * [video](https://www.youtube.com/watch?v=4ImaeQ2UR-A) \| [slides](./assets/presentations/202503%20-%20Coordinating%20Defense:%20My%20take%20on%20effective%20security%20testing%20strategies%20by%20Dimo%20Stankov.pdf)
+* `21.03.2025` \| "**Secure Software Development: Overview and practical examples**" \| *[Radostina Kondakova](https://www.linkedin.com/in/radostina-kondakova-0ab34a151/)*
+  * [video](https://www.youtube.com/watch?v=4ImaeQ2UR-A) \| [slides](./assets/presentations/202503%20-%20Secure%20Software%20Development:%20Overview%20and%20practical%20examples%20by%20Radostina%20Kondakova.pdf)
+* `21.03.2025` \| "**Broken Access Control: Tackling OWASP's #1 Vulnerability**" \| *[Spas Genov](https://www.linkedin.com/in/spas-genov/)*
+  * [video](https://www.youtube.com/watch?v=4ImaeQ2UR-A) \| [slides](./assets/presentations/202503%20-%20Broken%20Access%20Control:%20Tackling%20OWASP's%20#1%20Vulnerability%20by%20Spas%20Genov.pdf)
+
 * `31.01.2025` \| "**OS Command Injection via CRLF Injection in SNMP Services**" \| *[Peter Djalaliev](https://www.linkedin.com/in/pdjalaliev/)*
   * [video](https://www.youtube.com/watch?v=KeyTtB0FVJw) \| [slides](./assets/presentations/202501%20-%20OS%20Command%20Injection%20via%20CRLF%20Injection%20in%20SNMP%20Services%20by%20Peter%20Djalaliev.pdf)
 * `31.01.2025` \| "**Active Directory Exploitation**" \| *[Lyuben Petrov](https://www.linkedin.com/in/lyuben-petrov-b287bb236/)*
