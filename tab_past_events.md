@@ -10,11 +10,11 @@ tags: sofia
 ### 2025
 
 * `28.05.2025` \| "**How to fail with .NET reflection 101**" \| *Ivan Ivanov*
-  * [video](https://youtu.be/uOGlEVg-Ts4) \| [slides](./assets/presentations/202505%20-%20How%20to%20fail%20with%20.NET%20reflection%20101%20by%20Ivan%20Ivanov.pdf)
+  * [video](https://youtu.be/P1_o0204OPk) \| [slides](./assets/presentations/202505%20-%20How%20to%20fail%20with%20.NET%20reflection%20101%20by%20Ivan%20Ivanov.pdf)
 * `28.05.2025` \| "**Effective Threat Modelling**" \| *[Yordan Popov (Dan Ny)](https://www.linkedin.com/in/dan-ny/)*
-  * [video](https://youtu.be/uOGlEVg-Ts4) \| [slides](./assets/presentations/202505%20-%20Effective%20Threat%20Modelling%20by%20Yordan%20Popov%20(Dan%20Ny).pdf)
+  * [video](https://youtu.be/P1_o0204OPk) \| [slides](./assets/presentations/202505%20-%20Effective%20Threat%20Modelling%20by%20Yordan%20Popov%20(Dan%20Ny).pdf)
 * `28.05.2025` \| "**Scoring Vulnerabilities using CVSS**" \| *[Martin Georgiev](https://www.linkedin.com/in/martin-georgiev/)*
-  * [video](https://youtu.be/uOGlEVg-Ts4) \| [slides](./assets/presentations/202505%20-%20Scoring%20Vulnerabilities%20using%20CVSS%20by%20Martin%20Georgiev.pdf)
+  * [video](https://youtu.be/P1_o0204OPk) \| [slides](./assets/presentations/202505%20-%20Scoring%20Vulnerabilities%20using%20CVSS%20by%20Martin%20Georgiev.pdf)
 
 * `21.03.2025` \| "**Coordinating Defense: My take on effective security testing strategies**" \| *[Dimo Stankov](https://www.linkedin.com/in/dimo-stankov/)*
   * [video](https://www.youtube.com/watch?v=4ImaeQ2UR-A) \| [slides](./assets/presentations/202503%20-%20Coordinating%20Defense:%20My%20take%20on%20effective%20security%20testing%20strategies%20by%20Dimo%20Stankov.pdf)
