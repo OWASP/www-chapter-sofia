@@ -1,0 +1,33 @@
+community:
+  - name: chapter-sofia
+    platform: slack
+    url: https://owasp.slack.com/archives/C01S46ZLTFY
+    description: OWASP Sofia chapter
+leaders:
+  - name: Miglen Evlogiev
+    email: miglen.evlogiev@owasp.org
+    github: miglen
+  - name: Todor Todorov
+    email: todor.todorov@owasp.org
+    github: totollygeek
+  - name: Martin Stoynov
+    email: martin.stoynov@owasp.org
+    github: mihailstoynov
+location:
+  country: Bulgaria
+  country_code: BG
+  region: Sofia City
+  city: Sofia
+  latitude: 42.6977028
+  longitude: 23.3217359
+meetup_group: OWASP-Sofia-Chapter
+name: OWASP Sofia
+repositories:
+  - name: www-chapter-sofia
+    url: https://github.com/OWASP/www-chapter-sofia
+    description: OWASP Foundation Web Repository
+tags:
+  - sofia
+  - bulgaria
+  - custom-tag-1
+website: https://owasp.org/www-chapter-sofia
