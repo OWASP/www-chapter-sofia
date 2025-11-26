@@ -3,7 +3,7 @@ layout: col-sidebar
 title: OWASP Sofia
 tags: sofia bulgaria
 region: Europe
-meetup-group: OWASP-Sofia-Chapter
+meetup-group: owasp-sofia-chapter
 country: Bulgaria
 ---
 
@@ -34,7 +34,9 @@ If you want to visit our **meetups**, you can check them out below.
 
 ## Next Event
 
-{% include chapter_events.html group=page.meetup_group %}
+{% raw %}
+{% include chapter_events.html group=page.meetup-group %}
+{% endraw %}
 
 ## Propose a talk
 
