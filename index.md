@@ -36,6 +36,12 @@ If you want to visit our **meetups**, you can check them out below.
 
 {% include chapter_events.html group=page.meetup-group %}
 
+<p>
+  <a href="https://www.meetup.com/owasp-sofia-chapter/events/" target="_blank" rel="noopener">
+    View all upcoming and past events on our Meetup page =>
+  </a>
+</p>
+
 ## Propose a talk
 
 We're always open for new speakers that would like to share their knowledge and experience about Web Application Security. Please use our [Sessionize](https://sessionize.com/owasp-sofia/) page to submit your talk.
