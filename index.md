@@ -34,9 +34,7 @@ If you want to visit our **meetups**, you can check them out below.
 
 ## Next Event
 
-{% raw %}
 {% include chapter_events.html group=page.meetup-group %}
-{% endraw %}
 
 ## Propose a talk
 
