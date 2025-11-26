@@ -20,7 +20,7 @@ location:
   city: Sofia
   latitude: 42.6977028
   longitude: 23.3217359
-meetup_group: OWASP-Sofia-Chapter
+meetup_group: owasp-sofia-chapter
 name: OWASP Sofia
 repositories:
   - name: www-chapter-sofia
